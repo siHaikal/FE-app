@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Navbar {
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+}
